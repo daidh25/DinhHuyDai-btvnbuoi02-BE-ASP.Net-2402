@@ -1,0 +1,14 @@
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.AssemblyInfoInputs.cache
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.AssemblyInfo.cs
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.csproj.CoreCompileInputs.cache
+D:\ASP\btvnbuoi02\bai4\bin\Debug\net6.0\bai4.exe
+D:\ASP\btvnbuoi02\bai4\bin\Debug\net6.0\bai4.deps.json
+D:\ASP\btvnbuoi02\bai4\bin\Debug\net6.0\bai4.runtimeconfig.json
+D:\ASP\btvnbuoi02\bai4\bin\Debug\net6.0\bai4.dll
+D:\ASP\btvnbuoi02\bai4\bin\Debug\net6.0\bai4.pdb
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.dll
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\refint\bai4.dll
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.pdb
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\bai4.genruntimeconfig.cache
+D:\ASP\btvnbuoi02\bai4\obj\Debug\net6.0\ref\bai4.dll
